@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+		"Vue.volar",
+		"dbaeumer.vscode-eslint",
+		"EditorConfig.EditorConfig",
+		"esbenp.prettier-vscode",
+		"natqe.reload",
+		"ms-python.python",
+		"ms-python.autopep8",
+		"vscode-icons-team.vscode-icons"
+	]
+}
