@@ -1,0 +1,20 @@
+[Unit]
+Description=Edumate Education Website Service (Simple HTTP Server)
+After=network.target
+
+[Service]
+Type=simple
+User=www-data
+Group=www-data
+WorkingDirectory=/var/www/edumate
+ExecStart=/usr/bin/python3 -m http.server 8000 --bind 0.0.0.0
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+# Optional: Set port via environment variable
+# Environment="PORT=8000"
+
+[Install]
+WantedBy=multi-user.target
