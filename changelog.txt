@@ -1,0 +1,24 @@
+
+Version 1.0.5 - 15-March-2023
+================================
+Update: Bootstrap v5.0.2 to v5.3.0
+Fixed:  Minor Css issue
+
+
+Version 1.0.4 - 30 Aug 2021
+================================
+plugins: counter plugins change
+Fixed: speed optimize
+
+Version 1.0.3 – 11 july 2021
+================================
+Update: Bootstrap v5.0.2
+
+
+Version 1.0.2 – 29 june 2021
+================================
+Update: jquery-3.6.0
+
+Version 1.0.1 – 12 December 2020
+================================
+Fixed: Menu Dropdown Issu
